@@ -1,0 +1,14 @@
+.left-column-image {
+    width: 15%;
+    float: left;
+    margin-right: 5% !important;
+}
+
+.right-column-text {
+    width: 80%;
+    overflow: hidden;
+}
+
+.wordy {
+    font-size: .75em !important;
+}
