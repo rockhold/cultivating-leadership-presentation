@@ -12,3 +12,11 @@
 .wordy {
     font-size: .75em !important;
 }
+
+.strikethrough {
+    text-decoration: line-through;
+}
+
+.hidden-element {
+    visibility: hidden;
+}
