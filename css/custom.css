@@ -9,6 +9,16 @@
     overflow: hidden;
 }
 
+.left-column-split {
+    width: 50%;
+    float: left;
+}
+
+.right-column-split {
+    width: 50%;
+    overflow: hidden;
+}
+
 .wordy {
     font-size: .75em !important;
 }
